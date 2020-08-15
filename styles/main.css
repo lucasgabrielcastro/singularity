@@ -1,0 +1,17 @@
+:root {
+    /* set projocet color pallete */
+    --color-background: #F0F0F7;
+
+    font-size: 60%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100vh;
+}

@@ -9,6 +9,6 @@ on the domains of Data Science and Epidemiological Models, in order to assist go
 
 
 
-Sources:
+Source(s):
 
 http://gg.gg/Project-Singularity

@@ -1,17 +1,12 @@
-:root {
-    /* set projocet color pallete */
-    --color-background: #F0F0F7;
-
-    font-size: 60%;
+/*  family: Nunito | weight: 400, 600, 700 
+    family: Roboto Mono | weight: 400, 700
+    family: Roboto | weight: 300, 700 
+    family: Source Sans Pro | weight: 400, 600, 700 
+*/
+#jumbotron-logo {
+    font: 700 3.4rem Roboto;
 }
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-html,
-body {
-    height: 100vh;
+#jumbotron-subtitle {
+    font: 600 3.4rem Roboto;
 }
